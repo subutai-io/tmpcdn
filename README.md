@@ -1,0 +1,2 @@
+# fakecdn
+Temporary CDN Emulator
