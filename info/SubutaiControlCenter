@@ -1,0 +1,21 @@
+[
+    {
+        "id": "037e683b-71b6-467d-aa8b-730975117964",
+        "hash": {
+            "md5": "75fb0cbe34215d6b11caf2a1f0ab5933",
+            "sha256": "357daac455468f422b2e8e376874e78533f6f6142117343620fb000f2bdbc1f5"
+        },
+        "size": 33373728,
+        "name": "SubutaiControlCenter",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "jenkins"
+        ],
+        "version": "7.1.5",
+        "filename": "SubutaiControlCenter",
+        "upload-date-formatted": "2018-08-02T08:54:05.515246579Z",
+        "upload-date-timestamp": "1533200045"
+    }
+]
