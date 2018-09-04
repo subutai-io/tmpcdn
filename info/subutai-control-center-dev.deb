@@ -1,0 +1,24 @@
+[
+    {
+        "id": "0eaee6ef-3b81-4194-80f2-9902ca0a6933",
+        "hash": {
+            "md5": "19959f8e4cb707dd3157cc3a8e6bc7b3",
+            "sha256": "039649602b2e3e07e634247fb53c47ea74ab0b57d1878d87898eddc60d36224d"
+        },
+        "size": 25088220,
+        "name": "subutai-control-center-dev.deb",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "jenkins"
+        ],
+        "version": "7.1.5",
+        "filename": "subutai-control-center-dev.deb",
+        "signature": {
+            "jenkins": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA1\n\n0eaee6ef-3b81-4194-80f2-9902ca0a6933\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAEBAgAGBQJbjQ45AAoJEBi1SvgHbu5bPAYIAIfcLUG7zNtc/SCtYTNKfyry\n7VO0hj31Qy/PZEszT2eKAAO6zzj2vvn08K4Jr07KpmrdXkFcf+ejGCQj9sdwdLZb\nvP2D+u1aOHbd9NgL2OitvA11DJ1TPT+92WGKk9JekkajsIGGyaVYJlLBrKGecUBX\n0mf/BeD2QPL16uYb/w7qQt0r421kU8Txs+2XhXZ8k/wHdTBGZJ2ocF0zCFIWWTm0\n7ISQ8m2NO7gWG6GbBBxHO9ilkgnv6lcy2wZV0ZaQLHhYB5ghS+2QI72HXPR2g18/\nNVFIf7wkG45IWZ617T7vokzAgrFWmcSF5Ku1o8mZDKWr/hX79Y9Jx1sHhptlpBc=\n=LJB2\n-----END PGP SIGNATURE-----"
+        },
+        "upload-date-formatted": "2018-09-03T10:34:33.532698555Z",
+        "upload-date-timestamp": "1535970873"
+    }
+]
