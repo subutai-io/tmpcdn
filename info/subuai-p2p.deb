@@ -1,0 +1,20 @@
+[
+    {
+        "id": "d937c5fb-5ee2-4332-92af-464f50f1a33c",
+        "hash": {
+            "md5": "d548fd267859901d5137d75fac60f3ab",
+            "sha256": "989de6da98a9c5adf1d788614775555f997d250247420bda99ccca5e26a2ef0d"
+        },
+        "size": 2560036,
+        "name": "subutai-p2p.deb",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "jenkins"
+        ],
+        "filename": "subutai-p2p.deb",
+        "upload-date-formatted": "2018-07-24T08:51:52.067727075Z",
+        "upload-date-timestamp": "1532422312"
+    }
+]
