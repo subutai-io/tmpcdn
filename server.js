@@ -11,13 +11,16 @@ app.use(compression());
 
 app.get("/kurjun/rest/raw/info", function(req, res) {
     var name = req.query["name"];
-    res.sendFile("info/" + name);
+    res.type("text/plain");
+    res.sendFile("info/" + name, {root: "./"});
 });
 
 app.get("/kurjun/rest/raw/download", function(req, res) {
     var name = req.query["name"];
-    res.sendFile("download/" + name);
+    res.sendFile("download/" + name, {root: "./"});
 });
+
+app.listen(8338);
 
 /* 
  * vim: ts=4 et nowrap autoindent
