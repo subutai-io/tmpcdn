@@ -1,0 +1,24 @@
+[
+    {
+        "id": "267173d9-6288-4d64-b033-80fffed19571",
+        "hash": {
+            "md5": "de4da10b5613c36a3ca65973df88b89f",
+            "sha256": "4d3c8096ce64826f62be6605bcf5ee1b37f1bdc4a5c004c10f9db897ef369846"
+        },
+        "size": 35125760,
+        "name": "subutai-control-center-master.msi",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "jenkins"
+        ],
+        "version": "7.1.5",
+        "filename": "subutai-control-center-master.msi",
+        "signature": {
+            "jenkins": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n267173d9-6288-4d64-b033-80fffed19571\n-----BEGIN PGP SIGNATURE-----\n\niQFFBAEBCAAvFiEEfNDLSqpyeohLK4EZGLVK+Adu7lsFAluM9/gRHGplbmtpbnNA\nc3VidXQuYWkACgkQGLVK+Adu7luFjAgAncqERpzs5vZnJTSElEdz2qqbMHVSvlW2\nEh8gXbN+U37bPbqIMdQSA3Hn4rTOflnifB+aVNQSDMMaF7iWpEBz7ysHkNLAqzGP\nzm79oyt+gCtZvprcFFhLNmINy5LZbaxYgOUSUsgPAbUTstGarYZE/zOgcbGV8j1m\nY/fuDJRCrGzYJgimkOjDywQKNhG5iuzAvCIwd/VawQVOf6ZQi/gpZVd1W+xJuZcC\nSxUdiGgESqUS3s5mS9q3+U/TwYYguXpO0dTW/W7aKIhwbEe36iPq5EAbWGskSeU/\naCq21prFmerAA36i1cZ0Y+I9ZHMudzaAYSLJ6n0OjoRukZMloiXoew==\n=shap\n-----END PGP SIGNATURE-----"
+        },
+        "upload-date-formatted": "2018-09-03T08:59:36.532079413Z",
+        "upload-date-timestamp": "1535965176"
+    }
+]
