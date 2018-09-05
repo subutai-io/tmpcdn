@@ -1,0 +1,23 @@
+[
+    {
+        "id": "fd0501fd-206a-4a3e-838d-2805ea3784c5",
+        "hash": {
+            "md5": "6b4ac15c5f2f516ef9a9a2212ff44487",
+            "sha256": "06fe7d953ec54d981492459bce088d42b101cdb7448f58fee57a43d2388e2acd"
+        },
+        "size": 73245220,
+        "name": "virtualbox-trusty.deb",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "subutai"
+        ],
+        "filename": "virtualbox-trusty.deb",
+        "signature": {
+            "subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\nfd0501fd-206a-4a3e-838d-2805ea3784c5\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlso6DIRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ56Rfw//YTn5h/XjI0A7QuQqQWxHG3aIwJPrnz4Z\neL7Wp3OwLhcei0j8UfAvN1c/xPTMKdJwyMTAAIpd8D3PLFWjjjAjmA+jMe4Um+u1\nqpXPrKoaKv7WWA+j5I8BISn6jy0CzsSYGg2ICSLoefRBXrZyni3tbGj2GpFUc7Sn\nQdLMHUJFCqkKW2t5mAQk3cM98ITpObB1STU0x0mHGDqxVUT2hicKV2uzfYALByPk\n7KhMGTSjafLM6v5Cb2DrsG1Lx83RxOxUjtq5v30EyAF4PtpadYWzZW2OOJpZPtDK\nfm/uga8UM5vfkJ9LooFHJ0GL5xY/wIE12n8xcLCKC3J2LySO4sEV7O37mz+2NUlG\nAS6AsK2ErJJFn+fXcoxVRNSUh+4J+yN18j6FNMygGoepuVXc0hZLx3DDhWTSwtWI\nfFsFcHPQ5H+nzAomiPKD3G0E7cYUNEPvKBEs/Mc4liWArMX3flWBtYBTfyuRPUk9\nFyqMdjF2CfCAfOtEbhJt4k2nCfsRl1tDRq3GZ/xt2+Yq7bXLS3KJj4E04roUdJvT\nBBeBDbpegaHnNAyOY0pTQSX/4PUGDZ24+zH7IvOIXLzZawlBphxAoaQIGlvm/U1P\nLDKp6UpECdZ6Jk5LKQpsPIKyfrPVuocA/44OBUFfW6PVcOKoa1/O2a1145l8Gti8\nZVopphvEqyc=\n=eGsg\n-----END PGP SIGNATURE-----"
+        },
+        "upload-date-formatted": "2018-06-19T11:25:37.855291469Z",
+        "upload-date-timestamp": "1529407537"
+    }
+]
