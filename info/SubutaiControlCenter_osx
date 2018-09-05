@@ -1,0 +1,21 @@
+[
+    {
+        "id": "a267c60c-4937-4349-bb75-d26ecf16f995",
+        "hash": {
+            "md5": "f935ac5faf10326efdab6be204376fab",
+            "sha256": "616a7ff4357f3f553642f60d8c08b493e749b985e5284c0e375d762a438fb783"
+        },
+        "size": 4267328,
+        "name": "SubutaiControlCenter_osx",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "jenkins"
+        ],
+        "version": "7.1.5",
+        "filename": "SubutaiControlCenter_osx",
+        "upload-date-formatted": "2018-08-02T09:29:30.383038485Z",
+        "upload-date-timestamp": "1533202170"
+    }
+]

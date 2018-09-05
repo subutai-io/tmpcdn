@@ -1,0 +1,20 @@
+[
+    {
+        "id": "5f046954-cadc-43cc-bb55-150b021d490e",
+        "hash": {
+            "md5": "ccf96a9196364044b04a1cc9bfb1ae0e",
+            "sha256": "8d050591d8bd465dcae2d60a8e699bce037d0ce51f5da4349eed78b626e9ce47"
+        },
+        "size": 68680725,
+        "name": "googlechrome.dmg",
+        "owner": [
+            "subutai"
+        ],
+        "filename": "googlechrome.dmg",
+        "signature": {
+            "subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n5f046954-cadc-43cc-bb55-150b021d490e\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAEBCAAGBQJa4rfLAAoJEPfF1NwZLGeehD8QALIGKFyPbKlgaEXNob4ONJkV\nx8nXQq3sitkmb+w0mi0UF+gXTvXAZo4OZ0DoNDbUnWMqwurTlAKS3Rh9+BW+f9bU\nGEGA8v/Q4xaOr0Pss0A8RdLdjw9NuK2TgbyVnDXFDZ1LwHfkgL9pQc+zofYYVUcg\nAXrbGCyNpJNF9EuMjEOUaRvWpXf3uSVXcCFJ+OP6Ta+awMgiwW/hChaSNJ8MxrG4\nEHP9NNaVbK3Elr14a3g53VSl4cjRVfmKS7W+lisjRYUq6h80xEuvgz9bc16fiadp\nL85Z6M09fsL8kUNCBJNhBQZjA3Oe+OMb8sv2PnZ5Mac8geN8E71LX63h/rVIO+iz\ng+qSpWMNCtkmtK1WSQakNp0kFLfEQ6W3qVEcrSb0e1/mTJa2zLyWYd6wuA5uJvq7\nYTaIw7ULlR5xKQ6oRKfqXJH9MCyFxhNQZA6Kncq5VSl5OFJG9dELmwlOSiI72guG\neuhdtAoHwE51WmLf0q8An/hwAK+UzK/USrBMD5gk0wkEBNuA/d+v0lFmhY2Bt4Ro\neD9sdG4rCCZTUjqulU5DUbJwWWgifBpZCzWKI73vsQ/uuFYddNb77y+SF00TMGW/\nNtfwgado6eOoOid2aQ2ZHN5tyfnV18GZ+vuAiZfmSPul/tU1XLBUggyBy06CUoVi\nrGd9lbu+xNEpvqiVIndi\n=m3Nk\n-----END PGP SIGNATURE-----"
+        },
+        "upload-date-formatted": "2018-04-27T05:40:27.083354723Z",
+        "upload-date-timestamp": "1524807627"
+    }
+]

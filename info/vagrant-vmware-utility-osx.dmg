@@ -1,0 +1,23 @@
+[
+    {
+        "id": "ae744be8-bc5b-4172-aaa5-a400459d746b",
+        "hash": {
+            "md5": "4b5a9658e1e188b4ec72c794e4fcb7ca",
+            "sha256": "b6d60627ce0907eeaed05e3ee94ffc02ad10cb36a93340c6350ff34d699dfa16"
+        },
+        "size": 3532600,
+        "name": "vagrant-vmware-utility-osx.dmg",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "subutai"
+        ],
+        "filename": "vagrant-vmware-utility-osx.dmg",
+        "signature": {
+            "subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\nae744be8-bc5b-4172-aaa5-a400459d746b\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAltf4RoRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ55Wsg//XPSZVmLWp+RLOR/mdqjPFNwZ1A54EYII\n0leZf0SSBPLRCT0HAIM2inZqppjiIi48nD4YZwtaCEPPTlmWIBjhCzihcYQaoaRV\nPFCJ8m4Cjh3L/mIDn9Wd0hfsLPEql9z/G2xckkVHcn5lbRY1DBoTL4QvgFvwUUj3\nuySFwZwbB9urTq8hSirWxNofJKYb17MylYiP/wOvDtV/Jsg6fCcPoNRU24xqrrD/\nVGE5uutj2lyah+NPFZMuXdxvfriM8y/jrFltt7MqJifC0Jaf9rGHsCoL2D74Fd41\nLoNrEiZeXcn0E6Y7cIFuaERmEnp6mqVaTBId+T1N7U7CvAnSv6Za/p/o8El4XKbA\nVzt88Iy9KUQwMa6zo8UOby9OXrMGt+EGzJlJjCY03WEGyZ9ZoH6VVmREfAcnVMqE\nbB/qkgVADCft2u2dWTsEvTP/E9rYhML8XYT7eYwKkMyuCyARQSeHLFpSCKlovjTq\nK3cX6VcYMG80eik5iDkI4kd2lxJbiNSSDeIf2EtNvHFFnnAGREA+VYW+wd/yKV4J\nk4/Cyu3NriZm90BrNLI0NEE3IIz5Gt2k0P+jwkrz8DgMLneU3EbGPwPdwn28zBA6\nybMAT4ih6moxWEk2NrexUTXjkwIJoGe0mcnxTh/JbMY58usdKveLlpajI6trSI9x\nnrpuppQLjPM=\n=tPDb\n-----END PGP SIGNATURE-----"
+        },
+        "upload-date-formatted": "2018-07-31T04:10:02.927573523Z",
+        "upload-date-timestamp": "1533010202"
+    }
+]

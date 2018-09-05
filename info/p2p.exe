@@ -1,0 +1,21 @@
+[
+    {
+        "id": "ecf9a0e5-dcc7-475e-9511-f3dcc3d62a61",
+        "hash": {
+            "md5": "8a241c4397a7313955d22d94c8ce3839",
+            "sha256": "7069595e0df661cbcf679d5ed3bab443841909ec733ad66fed667f2f1bf4c55c"
+        },
+        "size": 8949760,
+        "name": "p2p.exe",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "jenkins"
+        ],
+        "version": "7.1.0",
+        "filename": "p2p.exe",
+        "upload-date-formatted": "2018-07-30T09:59:27.232706163Z",
+        "upload-date-timestamp": "1532944767"
+    }
+]

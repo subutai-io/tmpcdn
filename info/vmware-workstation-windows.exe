@@ -1,0 +1,23 @@
+[
+    {
+        "id": "8b559149-41d0-46fa-942a-bd6e8d2c29d2",
+        "hash": {
+            "md5": "79935903c0c0ed415ef965751c9c5b15",
+            "sha256": "33caa5ddac80f75dfd17215eeafab46856dfa7f45219260f7663f4a583cfd0c0"
+        },
+        "size": 510737976,
+        "name": "vmware-workstation-windows.exe",
+        "tags": [
+            ""
+        ],
+        "owner": [
+            "subutai"
+        ],
+        "filename": "vmware-workstation-windows.exe",
+        "signature": {
+            "subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n8b559149-41d0-46fa-942a-bd6e8d2c29d2\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAltbBGIRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ57nMRAAgtExXyNuZJrBuYFqeQ+3zLhjpgywi8ju\nyvbYKb5JPg3bIsmY2ArpwrcuQPW7KNk3mbL+LYD6J5g0bplRs421fAeop3royBLp\nllu9lnCpWGhPAxl7Qcerum84MgrhFVwKu9GUQWF+n6fKpaaEnEXutImuw3vlEGgv\n2x7TT7dhy5kumpdAupO1xnQ7To9VHP3ClGhMv7LGQveqEX4usISn+Pd3LR4hqbZU\nZmWrT9vEUppMvhEiUQwPKtNt5k7Dk/gjcLngmtXgR3cjzg9vTuaC7TLoqKDhcv7A\nwa54tpKDmId7XBOC/BL55Q60A3n0TZb9gpY3pn3P39jtNaquwBYFgde/JM7OxIAK\nvyZK2dk942j7yFwi6s1L9S9nfm3WWbA95oPN7lyygeA/3NMgjAIbzhnSC2z9j+eh\nnrjVbvC4jgfgFJkxEupPpOu6xOSZZke4m1JgWy2/1/60IWs0xKsI51xt0d6Sq3OJ\nua51JvF5BbuhApDkpbOK3GhEIqdBAIabONA2KDFkbX2Au1lrLwSQAFQqItJKIrot\nnYVqrUbPW/njEXuv7D1DRQKdCMWQsvAsC3xqhY7eb5T9poeDov0wsB1LAEkj1WFA\naJDe+WF1tPOpeOCzR84X7J42LjQtwUiyAZ9E0cmt6aqCSHf0bjI0ek+6WglbYRDz\neplkSm3ZOxE=\n=0Hj3\n-----END PGP SIGNATURE-----"
+        },
+        "upload-date-formatted": "2018-07-27T11:39:14.003359506Z",
+        "upload-date-timestamp": "1532691554"
+    }
+]
