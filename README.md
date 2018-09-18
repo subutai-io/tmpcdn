@@ -1,2 +1,2 @@
-# fakecdn
+# tmpcdn
 Temporary CDN Emulator
