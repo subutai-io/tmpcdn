@@ -23,7 +23,13 @@ app.get("/kurjun/rest/raw/info", function(req, res) {
 
 app.get("/kurjun/rest/raw/download", function(req, res) {
     var name = req.query["name"];
-    res.sendFile("download/" + name, {root: "./"});
+    var id = req.query["id"];
+    
+    if (name) {
+        res.sendFile("download/" + name, {root: "./"});
+    else {
+        res.sendFile("download/" + id, {root: "./"});   
+    }
 });
 
 app.listen(18338);
