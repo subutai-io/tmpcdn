@@ -9,6 +9,12 @@ var app = express();
 
 app.use(compression());
 
+app.get("/kurjun/rest/raw/id", function(req, res) {
+    var name = req.query["name"];
+    res.type("text/plain");
+    res.sendFile("id/" + name, {root: "./"});
+});
+
 app.get("/kurjun/rest/raw/info", function(req, res) {
     var name = req.query["name"];
     res.type("text/plain");
