@@ -27,7 +27,7 @@ app.get("/kurjun/rest/raw/download", function(req, res) {
     
     if (name) {
         res.sendFile("download/" + name, {root: "./"});
-    else {
+    } else {
         res.sendFile("download/" + id, {root: "./"});   
     }
 });
