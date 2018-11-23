@@ -1,0 +1,21 @@
+{
+"id": "ae2d0e0f-dfbe-4410-8617-fd06e562056b",
+"hash": {
+"md5": "b14a2528e87e3598bdd957f6f81c42ea",
+"sha256": "6c2e47343705fa25070cdf9ee89db19f2ebc178d9ad59c89dfaf15548c375d8f"
+},
+"size": 55242289,
+"name": "Firefox-61.0.1.dmg",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "Firefox-61.0.1.dmg",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\nae2d0e0f-dfbe-4410-8617-fd06e562056b\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAltQHxIRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ54fgA/+JEVjc8Ycda6i2AQqeM3kWfA6vuUMPriT\n8vqnZufO9gogRqi+1dQRG9tfbk91Kvf0kPqkcpmhqQi+T2MRwo45CkRzPbM8ojTW\n3tIOJnenB8MCqFZJllqw6Fer4tpxMbyIIq4iDxlwLVoFyN7is1NP7RD3wTEK9nSv\nHIgQzmcE8Ni9pRlpf4f94T93voOzgdCBBlRPBwMzhMgcKHAGuu6bS3UfKqMZgYca\nTEJIkfegCeRcuTuzHHMVJhCiZ0W4rDoTIABv/1rV0y9iHBKr+6hPpJSCkTCRzwYo\nhVVWSsnQ4XSdQPd26kCXnBa+WmtMrxVSob6XAsirJy3+GORGZM60CIdwgiWtHDcE\nlCCoRVab+v8wSRxqUuKXaHqMTw4PU4iMwR/OA9ZuXw+L9X7hc6pD84pz+eoFVTnU\nV1ND0z3DVZLBNyQdUf4Cr5mVRm08ISFlNch4Vt5alPbiNej9vK9zcCrJePtT5/Gy\nU5iPKwh+jus9zutXq2sbmmODqhlG1x/wKDHKVBsOu39pMfR/574Ph76WBOEiAdNI\nCvsUmmelPiVQo8n7uXAt41ifoUXKXFOVH6qiCwwIznz60B8Tr7vHmDIfjN2mBsYc\nXbeKp8PKI5atQ1q/CDF4zpRzAgm2p47mQSdmsbvmSaZ+4dLXbOpKbyTmpQZOzzx7\nojnIGVP0srw=\n=Jc6A\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-07-19T05:18:10.290663685Z",
+"upload-date-timestamp": "1531977490"
+}

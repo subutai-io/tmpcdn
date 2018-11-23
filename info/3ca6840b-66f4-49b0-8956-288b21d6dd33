@@ -1,0 +1,21 @@
+{
+"id": "3ca6840b-66f4-49b0-8956-288b21d6dd33",
+"hash": {
+"md5": "0cf2c025566c91548129a67705680ed3",
+"sha256": "c66238bd541313591f55fe53642255879ba08e585719368affe50ed461bb067a"
+},
+"size": 66978552,
+"name": "virtualbox-yakkety.deb",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "virtualbox-yakkety.deb",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n3ca6840b-66f4-49b0-8956-288b21d6dd33\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlso7CYRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ56AiQ/+IUg8DvG6u8DA9SdYI5l0YqHXgPnT8ruJ\n4deCCqw7QH7aaRFHwqGMzGnxdgfVkq0YDLMDKLzU3FqRhfcaANUNVGxIZbLptKJU\nDbs7you+9iskVoT75QjPqwEPbVjbQ7d8fgUkfOu0+YO31WxzO1qKpFHVNXimiUH+\nLHYiWUcxhRGXlkkvfubhR9r/akyVoENzXYa5lK03ak4E6Nkp0xnZaufWgagUpy5S\nGnLAGi/bhJumL4zmm7xeIn4N3UA7/OYZR3EyoiEliJpYLmqxsMPdO4vRVoS4Ssil\nZ+BdnEBqxhd/MNiJLEwniZy5XU57hWUKy2z4fTDH7t37CIBFFo4MoosaBNzCH0xW\nUhFcnyqftlH+WPWC9YNEF/9y5Hm6g8fplB2iUAz3Kzr8+xKVTKKl0q+F0JNE84eb\n98K+yYpqE3q1WOCibKxiY20KzE5rj/93QqCfF9BPAOc6HNdU3iGBA8GrDPIlRi+9\nMeYfkZI6hrSvnDsyYG7ypw3mAD4fWVx8ajuWRu+TKkoNfPfkWtYbM//oGL1qYrr4\ntjkuDDmYEOFyOhSZaQcrk7amoB01/yt+tGUzMkG2s+tAe7algM+m2oBz/oTwlXJJ\nvvV2HFu8rAh6o06ky5u+dveopiRgeyXZOZGnJiTAPssVBgC9mcrXYWKbHc9lugpL\nwl+fKEeJ9ic=\n=rqhv\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-06-19T11:42:30.286596468Z",
+"upload-date-timestamp": "1529408550"
+}

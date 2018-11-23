@@ -1,0 +1,21 @@
+{
+"id": "2e94c4ab-ce79-4e4e-ab76-0120b5468fa4",
+"hash": {
+"md5": "05b4bb3e44a2b73ae39f986e18c7461b",
+"sha256": "bb43893f61ce3a00085108646e1844f393ebb9144a9f62b5b9ebdee0233e72cd"
+},
+"size": 4305464,
+"name": "SubutaiControlCenter.exe",
+"tags": [
+""
+],
+"owner": [
+"jenkins"
+],
+"filename": "SubutaiControlCenter.exe",
+"signature": {
+"jenkins": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA1\n\n2e94c4ab-ce79-4e4e-ab76-0120b5468fa4\n-----BEGIN PGP SIGNATURE-----\n\niQEcBAEBAgAGBQJb6nIIAAoJEBi1SvgHbu5by1wH/it9viByxLGjePe1ODTeU2Hk\nz7KhgoF91/Fnx43CB390cRvz7OWxngJzzokWgxDThyvIRAQCa2VC4446IE4oU43a\nrpbPfx3VlGks+NS5d97efaZYFVhglR5X2vxruxOLs9yAnAgIBbCzxJetJiu774yU\nI6rf/LrXMpmSR3lcLWC29tMk1MkKLhEZU5yMMnD+pdI3B0+iaHA3kHR8124k6ZiT\nr4KPs8DcYDJqYX5CEelh1QQs4RiblAwE+zYXQe/S8iwLGB5+BkfFKMUkbG0h1She\nTSYkLxGz/h/hO2esmDNn3FwF4YKO/wsdtA8yG1W0TvOzVPkkomG4iBHVAfmo2gM=\n=eyxD\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-11-13T06:41:10.244517809Z",
+"upload-date-timestamp": "1542091270"
+}

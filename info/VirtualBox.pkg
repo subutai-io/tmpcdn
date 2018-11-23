@@ -1,23 +1,21 @@
-[
-    {
-        "id": "0ce712b6-9b00-452d-a0de-ad06962a1623",
-        "hash": {
-            "md5": "16f090b142573234766ccaa61f14fbdd",
-            "sha256": "4086d25628cfd6915f38008df3251394e8dface6ecbbe772e847397fa84291a5"
-        },
-        "size": 90929783,
-        "name": "VirtualBox.pkg",
-        "tags": [
-            ""
-        ],
-        "owner": [
-            "subutai"
-        ],
-        "filename": "VirtualBox.pkg",
-        "signature": {
-            "subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n0ce712b6-9b00-452d-a0de-ad06962a1623\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlsoq4sRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ54FJBAArAcR6ROQXuKUs90F6SHW6AQ+0mW9A/nH\nIoH+tDpgEpJA+i9S0pWbA4yi5F5PhZUGxPvzHdMS9Ge1tCJbu4f7SK28bOzd6ekn\nmllM8K1cfc+gR59QG4CfzXVMeXB5Rvok/tJOIIqmdjOOTUMiLd8pPikkXvoXIe1Z\nVJhaQrZAcoWG+CCXTo0WvcUn2GbbgtlM3/S2XGP/pmXraajjBup8YGQprcV08z7h\nOGlpTwSB8j9B8u8sIXbXPUcsTCtEUnDvL9hH/gnFAwHry12npie3gCnuOnQOeqe+\npfQ/rljmjjxhFikf8XfXMrUIMfu5QXbNB9QrbLphrIHkwj9ESFs8sV74Oy+17tcn\nMRkEF4JhXvBONnj+0Zd6GzdvNjx/svRXxwbNUs82QxI4MrSnS0IqdUxsaCy0ybn1\neDeKFSrXFBfs4OCz0wGhnlGOuSBbpi9QHc7zqRC4by4+upNAGshWOr9gjDrjXdna\n5gOmhN+nQJSRaelVI6s8I3zrKZNBaqvooqAt2qwv48KyRri4msVOD55k1KE4pVrx\nvb2gceMFfLowy6ewxdIt5ubnkpTZFDHJ5S7tNGvBJ+gn5U4Zy9TA77NUvGtwW9KV\n4q6F0cv0o+5go7A+SZhcS5aRSf/g34i0UsuI0J5Tf++D2DW2KrFJI5wMooVO+d5i\njYMXzTk+mi8=\n=9hFl\n-----END PGP SIGNATURE-----"
-        },
-        "upload-date-formatted": "2018-06-19T07:06:51.045382914Z",
-        "upload-date-timestamp": "1529392011"
-    }
-]
+{
+"id": "0ce712b6-9b00-452d-a0de-ad06962a1623",
+"hash": {
+"md5": "16f090b142573234766ccaa61f14fbdd",
+"sha256": "4086d25628cfd6915f38008df3251394e8dface6ecbbe772e847397fa84291a5"
+},
+"size": 90929783,
+"name": "VirtualBox.pkg",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "VirtualBox.pkg",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n0ce712b6-9b00-452d-a0de-ad06962a1623\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlsoq4sRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ54FJBAArAcR6ROQXuKUs90F6SHW6AQ+0mW9A/nH\nIoH+tDpgEpJA+i9S0pWbA4yi5F5PhZUGxPvzHdMS9Ge1tCJbu4f7SK28bOzd6ekn\nmllM8K1cfc+gR59QG4CfzXVMeXB5Rvok/tJOIIqmdjOOTUMiLd8pPikkXvoXIe1Z\nVJhaQrZAcoWG+CCXTo0WvcUn2GbbgtlM3/S2XGP/pmXraajjBup8YGQprcV08z7h\nOGlpTwSB8j9B8u8sIXbXPUcsTCtEUnDvL9hH/gnFAwHry12npie3gCnuOnQOeqe+\npfQ/rljmjjxhFikf8XfXMrUIMfu5QXbNB9QrbLphrIHkwj9ESFs8sV74Oy+17tcn\nMRkEF4JhXvBONnj+0Zd6GzdvNjx/svRXxwbNUs82QxI4MrSnS0IqdUxsaCy0ybn1\neDeKFSrXFBfs4OCz0wGhnlGOuSBbpi9QHc7zqRC4by4+upNAGshWOr9gjDrjXdna\n5gOmhN+nQJSRaelVI6s8I3zrKZNBaqvooqAt2qwv48KyRri4msVOD55k1KE4pVrx\nvb2gceMFfLowy6ewxdIt5ubnkpTZFDHJ5S7tNGvBJ+gn5U4Zy9TA77NUvGtwW9KV\n4q6F0cv0o+5go7A+SZhcS5aRSf/g34i0UsuI0J5Tf++D2DW2KrFJI5wMooVO+d5i\njYMXzTk+mi8=\n=9hFl\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-06-19T07:06:51.045382914Z",
+"upload-date-timestamp": "1529392011"
+}

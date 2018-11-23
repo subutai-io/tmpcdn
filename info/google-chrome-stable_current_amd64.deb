@@ -1,20 +1,18 @@
-[
-    {
-        "id": "e0d74d99-22a1-4c92-a411-edab014cb799",
-        "hash": {
-            "md5": "670811e78af611f37c2aeb99def9ef87",
-            "sha256": "2668878e7f9eff2a2ffbf2c4393b783e3d67da599b5ff94714ef1fa548e22464"
-        },
-        "size": 52132868,
-        "name": "google-chrome-stable_current_amd64.deb",
-        "owner": [
-            "subutai"
-        ],
-        "filename": "google-chrome-stable_current_amd64.deb",
-        "signature": {
-            "subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\ne0d74d99-22a1-4c92-a411-edab014cb799\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAEBCAAGBQJa4/u2AAoJEPfF1NwZLGeeR9AP/24n9jpIlE14yLyrL+kGWelk\nPyKh1NZcdNfamDHZgBgwKgeAbOBLInl33gzCETIyajsNtGzZpaQiNreQQv6nF3Rd\nzrf5T5hnH/dW1HjplQQmFHvuiC2ZoG7bDQCkdAf8Hpd1QrMXqJFiwnvtBH7WwPyE\nJ/BYhD1rvGPHgEmCZAhjgVJhIAx6kyrEeNztzbD4tOTzpRg8ZpTqLdYkiMO0g1Lp\nZAsjnBDOmQNT34IILJer0ZkatfXtGSQZoDqNKSHtYIHHBz9KN8IdAPzZErQnDC67\nywWqfFhDuR9S++Zc3AzsKWHMvCJ0HFkx8jhHM/j3w0tlaoVr/6ttseSDA8jqGY6O\nPOOivyrXzDfobdV5NzWwnOUQOwupioUFnZmOkqAArMSk2wxS32g1jr7sEMBIw7gY\nZPOlDB/v/bPvCJoG8701pPo3+e1u1ubB1NwJnSbDZRhfRAr6VCfcOUbdU6n8+Lun\n/ks7VT4rXBkafHrDtnswLAlY8rbHDiblUl2lnrE0rKh/6ULlM4VOp1vuJxhSvwYb\nj7M5pKfPhGwnDAp9K4s37nUvDOiJHzJ+ldfSSDjLtH2ofu+4Ym0id35Ce60CzEmy\n9PK8KdJx5bDmTKhAQhuzugt8r+KhimoAsUOXIDjRmG5ZvAZaKBcR3jUbY+d1//i0\narbOD2+vOVDWFJeCn+Mz\n=GNe+\n-----END PGP SIGNATURE-----"
-        },
-        "upload-date-formatted": "2018-04-28T04:42:30.498367294Z",
-        "upload-date-timestamp": "1524890550"
-    }
-]
+{
+"id": "e0d74d99-22a1-4c92-a411-edab014cb799",
+"hash": {
+"md5": "670811e78af611f37c2aeb99def9ef87",
+"sha256": "2668878e7f9eff2a2ffbf2c4393b783e3d67da599b5ff94714ef1fa548e22464"
+},
+"size": 52132868,
+"name": "google-chrome-stable_current_amd64.deb",
+"owner": [
+"subutai"
+],
+"filename": "google-chrome-stable_current_amd64.deb",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\ne0d74d99-22a1-4c92-a411-edab014cb799\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAEBCAAGBQJa4/u2AAoJEPfF1NwZLGeeR9AP/24n9jpIlE14yLyrL+kGWelk\nPyKh1NZcdNfamDHZgBgwKgeAbOBLInl33gzCETIyajsNtGzZpaQiNreQQv6nF3Rd\nzrf5T5hnH/dW1HjplQQmFHvuiC2ZoG7bDQCkdAf8Hpd1QrMXqJFiwnvtBH7WwPyE\nJ/BYhD1rvGPHgEmCZAhjgVJhIAx6kyrEeNztzbD4tOTzpRg8ZpTqLdYkiMO0g1Lp\nZAsjnBDOmQNT34IILJer0ZkatfXtGSQZoDqNKSHtYIHHBz9KN8IdAPzZErQnDC67\nywWqfFhDuR9S++Zc3AzsKWHMvCJ0HFkx8jhHM/j3w0tlaoVr/6ttseSDA8jqGY6O\nPOOivyrXzDfobdV5NzWwnOUQOwupioUFnZmOkqAArMSk2wxS32g1jr7sEMBIw7gY\nZPOlDB/v/bPvCJoG8701pPo3+e1u1ubB1NwJnSbDZRhfRAr6VCfcOUbdU6n8+Lun\n/ks7VT4rXBkafHrDtnswLAlY8rbHDiblUl2lnrE0rKh/6ULlM4VOp1vuJxhSvwYb\nj7M5pKfPhGwnDAp9K4s37nUvDOiJHzJ+ldfSSDjLtH2ofu+4Ym0id35Ce60CzEmy\n9PK8KdJx5bDmTKhAQhuzugt8r+KhimoAsUOXIDjRmG5ZvAZaKBcR3jUbY+d1//i0\narbOD2+vOVDWFJeCn+Mz\n=GNe+\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-04-28T04:42:30.498367294Z",
+"upload-date-timestamp": "1524890550"
+}

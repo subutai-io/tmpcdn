@@ -1,0 +1,19 @@
+{
+"id": "4784e047-53e2-44fb-b493-eb22e393b26b",
+"hash": {
+"md5": "345500e2a48177c3c8875dc2f00f4434",
+"sha256": "39a1810c94668e6063ae8048df08120703e0590271905dc653aeaa84226615ad"
+},
+"size": 3507778,
+"name": "subutai-p2p.pkg",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"version": "8.0.1",
+"filename": "subutai-p2p.pkg",
+"upload-date-formatted": "2018-10-09T09:07:15.716196188Z",
+"upload-date-timestamp": "1539076035"
+}

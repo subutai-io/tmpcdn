@@ -1,0 +1,18 @@
+{
+"id": "f411aaee-9c19-4366-92ce-f63ea40a5500",
+"hash": {
+"md5": "6602dc1b7bdc0d804d5201756f3e4b25",
+"sha256": "3d78e737ef39db9a65b4049d7e6436259f7158663ea65724cd790f0d1a89b0c7"
+},
+"size": 4186624,
+"name": "subutai-p2p.msi",
+"tags": [
+""
+],
+"owner": [
+"jenkins"
+],
+"filename": "subutai-p2p.msi",
+"upload-date-formatted": "2018-11-06T04:30:02.408918274Z",
+"upload-date-timestamp": "1541478602"
+}

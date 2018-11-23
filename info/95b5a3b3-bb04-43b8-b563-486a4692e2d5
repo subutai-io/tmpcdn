@@ -1,0 +1,18 @@
+{
+"id": "95b5a3b3-bb04-43b8-b563-486a4692e2d5",
+"hash": {
+"md5": "868bcd652a986a6442c1c6637b62716e",
+"sha256": "b80cd4a000c24f1e42c52852435dbed1fe11d3a2e27f637537f454bd0d44f653"
+},
+"size": 78223493,
+"name": "XQuartz.pkg",
+"tags": [
+""
+],
+"owner": [
+"jenkins"
+],
+"filename": "XQuartz.pkg",
+"upload-date-formatted": "2018-07-30T11:50:39.759111809Z",
+"upload-date-timestamp": "1532951439"
+}

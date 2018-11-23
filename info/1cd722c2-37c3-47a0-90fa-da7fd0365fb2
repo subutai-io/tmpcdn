@@ -1,0 +1,21 @@
+{
+"id": "1cd722c2-37c3-47a0-90fa-da7fd0365fb2",
+"hash": {
+"md5": "987e646181c97266f1e9e4321e0453cd",
+"sha256": "137b18b54159a4c898fdda8dbf69460115c565b5553ac82eebd7cfcd8758ea86"
+},
+"size": 2150774,
+"name": "e2e-plugin.safariextz",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "e2e-plugin.safariextz",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n1cd722c2-37c3-47a0-90fa-da7fd0365fb2\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAltYHmYRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ56E1g/9FywXupuHPEzByFKdx+J+hFVWWUpmNfDn\nI3Ou14PRT5EHTcug6ff34VJHusGcYXCskOr3qxJI61x9Qyb4lSUI7/WiLFXhsUXv\nGYFrHMkX1yd9KdHXUkV/tOo869V8MHHYjckd5PFdjVG/bU4IG3RrRXyCkDnzJb7e\nBKZwSqS5pQVnYs+FLvsjWeXVsCpCbwlMlDkLYKn5owwQYq7VR2Ifmq0z3nSZyqs1\nctdAWOiJKkbZ/Mvtt4i+jCPtLgjrXjJwbCStzWdL+CfCNeiTGnxmPjOdIQNlBEvk\nfD/3mzUFXENSGv/0QZaL6M4OER+fU1RyLaXND7C3V0CJmaVb7uNdUgnXLwKLx015\nXsJkZnYU6J93ha4syJiX0j8IUsRmYmm43bl7Ykz1O9a2Gz0Bk8AJnim6rTMROoRp\njFDN9irYSLv1gZGBpLoh0eqINrTR4ZkUEVUQNdNGmQENqGKJNscT0GRPbTfoZQCE\nSy3Dh5GBZpNvI/HIiOS1t3iFNOj3BpZZSu0uPI4xLK0UhY/iZrvakg5LnoNo70JS\n/jMcHq69OD8Eq/MBNg56gRb8uUFA2ne1fSufUmbLOlvxC+eIK0x8QfZDH3yUbDo5\nCc5ZPGmrq4uBJe/6ToK5rX+FpVNPekh4wSMUuP3R6wxkYwOQGuVitM/QS87HLbdV\n8RTpUG3GHzk=\n=5c1U\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-07-25T06:53:25.943870595Z",
+"upload-date-timestamp": "1532501605"
+}

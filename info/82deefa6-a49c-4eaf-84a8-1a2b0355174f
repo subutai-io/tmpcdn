@@ -1,0 +1,19 @@
+{
+"id": "82deefa6-a49c-4eaf-84a8-1a2b0355174f",
+"hash": {
+"md5": "a961fb8795cb24b3ca6ec4bd8a6bb9c4",
+"sha256": "70abf82d36772c84108bbb2909903087c91bb296d1ba6158de2f9847fd217dc4"
+},
+"size": 4652144,
+"name": "SubutaiControlCenter_osx",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"version": "7.2.1",
+"filename": "SubutaiControlCenter_osx",
+"upload-date-formatted": "2018-10-26T13:10:24.316095379Z",
+"upload-date-timestamp": "1540559424"
+}

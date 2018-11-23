@@ -1,23 +1,21 @@
-[
-    {
-        "id": "bb8c5bf0-b85d-4ae4-a8da-5f6b904a5bdd",
-        "hash": {
-            "md5": "1f55578f22efa8a7f6e51de4c2c31e6f",
-            "sha256": "d039d27bd27937db7489dfefc854975573828ee066e37fec908579db37b6c2a0"
-        },
-        "size": 113772032,
-        "name": "VirtualBox.exe",
-        "tags": [
-            ""
-        ],
-        "owner": [
-            "subutai"
-        ],
-        "filename": "VirtualBox.exe",
-        "signature": {
-            "subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\nbb8c5bf0-b85d-4ae4-a8da-5f6b904a5bdd\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlsojdIRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ57o8xAAtLMaNOauKX0eX2ySJhYEPFrhzTGvr4hl\n1HrsUeo/PtfxmVlWcvYUlYYwSo8w7gJWncCtJzhaiPjxQ/TZjY0gssx8roOKgRWh\nQ3SZO0J2aiPMww0wYbgSC5YCcqBCgjCm0SWG3zv3gkJS2g9/5NS+XQEbGH02dy5p\nvjeoXVir2VhGE7P85OAhOpRY7171iT1Sh4gpMktu2Fq5FFzwDbHXPL7zplQQKUKC\ntY/oQCzSL+oqb+VgqT8dlehw6PtAH5wXFekhzGYtm6DE1PGzB313YtIMqV7Di/h0\nxS859fzJmG15kI73EKFH6t1TfvsSF5eJ6IWol9w/V+yEgMVR4xKnNsriVSPI/IGp\nK8Q0aisZAfFlyWnZUe/S9MP3lpX4OeRNm93FyCUZ3t4QyXOiR6XSPCT2c1SvAciV\nkVKDRRzKdG4XLkwAnfeWR2CUAIA/Y/H8T6rWdzulkBWHR2pKwFZgFP3Q+hgPn6H8\nq0XkFml2zUokmNqLTn1VeRt5KbO7LzB02tnz+ZNdbe9TWc9B5Qnq/E8TYWbuwMgW\nP2y/Uk9MrU/i4iXlVup6bU1HUEB2zObe1riE2//BESMfT23GC+OWjwqtd3U7rhTA\n1DCXwoF5lNdXzZfLXYaYyEO266J8OVH1S/T35XSQBNOmpWHYhLHf6TJW0hgvFE1d\nvr9w6Xbm/Gg=\n=8rUY\n-----END PGP SIGNATURE-----"
-        },
-        "upload-date-formatted": "2018-06-19T05:00:02.486314644Z",
-        "upload-date-timestamp": "1529384402"
-    }
-]
+{
+"id": "bb8c5bf0-b85d-4ae4-a8da-5f6b904a5bdd",
+"hash": {
+"md5": "1f55578f22efa8a7f6e51de4c2c31e6f",
+"sha256": "d039d27bd27937db7489dfefc854975573828ee066e37fec908579db37b6c2a0"
+},
+"size": 113772032,
+"name": "VirtualBox.exe",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "VirtualBox.exe",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\nbb8c5bf0-b85d-4ae4-a8da-5f6b904a5bdd\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlsojdIRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ57o8xAAtLMaNOauKX0eX2ySJhYEPFrhzTGvr4hl\n1HrsUeo/PtfxmVlWcvYUlYYwSo8w7gJWncCtJzhaiPjxQ/TZjY0gssx8roOKgRWh\nQ3SZO0J2aiPMww0wYbgSC5YCcqBCgjCm0SWG3zv3gkJS2g9/5NS+XQEbGH02dy5p\nvjeoXVir2VhGE7P85OAhOpRY7171iT1Sh4gpMktu2Fq5FFzwDbHXPL7zplQQKUKC\ntY/oQCzSL+oqb+VgqT8dlehw6PtAH5wXFekhzGYtm6DE1PGzB313YtIMqV7Di/h0\nxS859fzJmG15kI73EKFH6t1TfvsSF5eJ6IWol9w/V+yEgMVR4xKnNsriVSPI/IGp\nK8Q0aisZAfFlyWnZUe/S9MP3lpX4OeRNm93FyCUZ3t4QyXOiR6XSPCT2c1SvAciV\nkVKDRRzKdG4XLkwAnfeWR2CUAIA/Y/H8T6rWdzulkBWHR2pKwFZgFP3Q+hgPn6H8\nq0XkFml2zUokmNqLTn1VeRt5KbO7LzB02tnz+ZNdbe9TWc9B5Qnq/E8TYWbuwMgW\nP2y/Uk9MrU/i4iXlVup6bU1HUEB2zObe1riE2//BESMfT23GC+OWjwqtd3U7rhTA\n1DCXwoF5lNdXzZfLXYaYyEO266J8OVH1S/T35XSQBNOmpWHYhLHf6TJW0hgvFE1d\nvr9w6Xbm/Gg=\n=8rUY\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-06-19T05:00:02.486314644Z",
+"upload-date-timestamp": "1529384402"
+}

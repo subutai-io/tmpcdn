@@ -1,0 +1,18 @@
+{
+"id": "751dcba7-2f21-4acc-863c-91a0d3f3cd52",
+"hash": {
+"md5": "be012eac6292aaacc6a87fd9a9ea8f98",
+"sha256": "2ad5be84af341cd0db5f0c96f1679707c42259fb6a7854b38e88852c50fd6aeb"
+},
+"size": 20504576,
+"name": "X2GoClient_latest_linux.deb",
+"tags": [
+""
+],
+"owner": [
+"jenkins"
+],
+"filename": "X2GoClient_latest_linux.deb",
+"upload-date-formatted": "2018-07-07T09:03:57.488608877Z",
+"upload-date-timestamp": "1530954237"
+}

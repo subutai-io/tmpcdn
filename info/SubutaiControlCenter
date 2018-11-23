@@ -1,21 +1,19 @@
-[
-    {
-        "id": "037e683b-71b6-467d-aa8b-730975117964",
-        "hash": {
-            "md5": "75fb0cbe34215d6b11caf2a1f0ab5933",
-            "sha256": "357daac455468f422b2e8e376874e78533f6f6142117343620fb000f2bdbc1f5"
-        },
-        "size": 33373728,
-        "name": "SubutaiControlCenter",
-        "tags": [
-            ""
-        ],
-        "owner": [
-            "jenkins"
-        ],
-        "version": "7.1.5",
-        "filename": "SubutaiControlCenter",
-        "upload-date-formatted": "2018-08-02T08:54:05.515246579Z",
-        "upload-date-timestamp": "1533200045"
-    }
-]
+{
+"id": "0eca9e37-2e38-47c0-8da9-9bc844328597",
+"hash": {
+"md5": "5bc1cd60ec9d8cf3424f67590577cf05",
+"sha256": "0c0bd99b0777e650cd7fb62399747c8111dfbb54f55c55fcab48e3d8accb3aea"
+},
+"size": 33805184,
+"name": "SubutaiControlCenter",
+"tags": [
+""
+],
+"owner": [
+"jenkins"
+],
+"version": "7.3.1",
+"filename": "SubutaiControlCenter",
+"upload-date-formatted": "2018-11-13T06:33:39.659468865Z",
+"upload-date-timestamp": "1542090819"
+}

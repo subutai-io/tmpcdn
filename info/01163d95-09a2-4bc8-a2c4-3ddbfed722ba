@@ -1,0 +1,21 @@
+{
+"id": "01163d95-09a2-4bc8-a2c4-3ddbfed722ba",
+"hash": {
+"md5": "303efff23cb0cec46b6f13cee0ab6275",
+"sha256": "6b943a3db423e60f9f9e29bf862895c1fe309f16642a1b3e349ef2c46d9b9c8e"
+},
+"size": 73562796,
+"name": "virtualbox-xenial.deb",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "virtualbox-xenial.deb",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n01163d95-09a2-4bc8-a2c4-3ddbfed722ba\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlso6uQRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ56+0hAAl44876b6l7T5A23b5d2AXg2vMwEK3ON9\nn6uoHkfK8WNHovQhOZ7RJYBySQf5KGf1oAa/ce+U1cks1v90cASYvKCi10q65+2i\n8Pv7TCz5i3ExJfuug3Og2DGgUr7roIbDnhUuFH5pMT9QC2JxRH4RIEd90JRFbFBy\nOZiqqmdaJMooywNM6P96ne+5YXq8P0sThJV/rS6uL/g0Pp7OFLpCKa4ZO6burten\nOgfI2jwy2om6elXQ8oxeT0/Bf9HqIGeyJrJHAFdWZRTAPRDYWHt+y7yIrVZ5mssi\n9ir+mxYVlxqEU0XdF+DwrgrcknWiry4ChNvYMq2Y5r5D1VqpCnpOq/UEcIqdJanS\nmxd6BYp2XSOlWfXXnaXLmK0gjawIG1IFFX85DY3ASMl3ndR44kQYNwekQ7x9SEi8\ntg2qsJvLfrHPr04xvtQRKWkNjrC+V4soVNKVLAb5iCjmFrBAtLjI4sH1iw4jXiU/\nHIDt64p7xmGHluWb1bL2Wxgh7FGUPvezDQjYlifrCYrIcj6rJW/32KySxuB/zpeG\n3OWBU+QCL82oHkmAlfmpIqWwUQ/QjhU0UeltqaGWBUnusLCcCipTwLvm/ZvbSQAO\ne3Wc8J9BHl1zidyKTt/QHf+1k0rqdu5h/wO8Ea4IGpDXfafrLnlPZSFW2TPNyEw8\njweMw9vNVZQ=\n=W8pd\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-06-19T11:37:08.599139668Z",
+"upload-date-timestamp": "1529408228"
+}

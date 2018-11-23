@@ -1,23 +1,21 @@
-[
-    {
-        "id": "65631eed-9082-4978-aa58-7d70902a6428",
-        "hash": {
-            "md5": "9e89b267bf4d98bdcd08ff741041702f",
-            "sha256": "b3310fc8ee64bae6e994e0e2720282b037857cc22ffd8427a713f0c84ac4e556"
-        },
-        "size": 465648927,
-        "name": "vmware-fusion-osx.dmg",
-        "tags": [
-            ""
-        ],
-        "owner": [
-            "subutai"
-        ],
-        "filename": "vmware-fusion-osx.dmg",
-        "signature": {
-            "subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n65631eed-9082-4978-aa58-7d70902a6428\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAltezFoRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ57SjBAAk4EF6fxZ//KfAlAS1Z+721Ge67HBPQ4m\nMdEuLH0+314ytBRv82g8m/i1HTHCX/N+GaEQ8spWWm3RU7SpL6bFVMgEQ2EaZ6rK\nLkUD0exDvdBJIlgkdgXJO0vourh5Wl5Z6AwllwpLZtNIN7I6Oe1I59S0K66JyWPj\nhtNQILn7AyXlQATewn0PFVwTAAN3SxMci7Iz0FPJpWguoYV+DriA5tOSWM19uOqQ\nfJ0Q31dByX4ctcxYsSURKsTnjmtQ+MaL9w5l6PZK4Zxn/FT5YBg4MPEfAfdp/X3J\nMCBlx6nwN7lHwogF81Y5wHaVr+qn9EIpRUAa4rv9CSAP74+9Q1UrJPa6ALz1klp8\nUHeydn5j3l+zG5XxwcP5iOM8OUy7Aq7Q4GcZmQsxFWS9ocq4WnFMnUVqFrmT6jst\ny6TnOvVC9cZoOesTTKQ/ox9vZrbNLZRzKSqZrRUS0Il0tlwXhr0p5Y6rjhmKV6s7\nVHzqm2ChJ4o/dsFoWTeO2jWLkUYmmFgQsLlDEDW4Rh8/kuz21M7ZRGw96wCvIrDo\nRnX9PzieK28htoUH0Onhfi6HBc0YxplHx8v2uSV8Rl5tLWmFR4qmDcjrXZnYCKmb\nkOPBeiohZsMYGnIwfDwh9naxhmYR81lytx5PVwqgKsWvZ0nnl/G3C0FtkHtjpg0M\nlBWIZzYdb6k=\n=M9Pj\n-----END PGP SIGNATURE-----"
-        },
-        "upload-date-formatted": "2018-07-30T08:29:14.441425442Z",
-        "upload-date-timestamp": "1532939354"
-    }
-]
+{
+"id": "65631eed-9082-4978-aa58-7d70902a6428",
+"hash": {
+"md5": "9e89b267bf4d98bdcd08ff741041702f",
+"sha256": "b3310fc8ee64bae6e994e0e2720282b037857cc22ffd8427a713f0c84ac4e556"
+},
+"size": 465648927,
+"name": "vmware-fusion-osx.dmg",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "vmware-fusion-osx.dmg",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n65631eed-9082-4978-aa58-7d70902a6428\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAltezFoRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ57SjBAAk4EF6fxZ//KfAlAS1Z+721Ge67HBPQ4m\nMdEuLH0+314ytBRv82g8m/i1HTHCX/N+GaEQ8spWWm3RU7SpL6bFVMgEQ2EaZ6rK\nLkUD0exDvdBJIlgkdgXJO0vourh5Wl5Z6AwllwpLZtNIN7I6Oe1I59S0K66JyWPj\nhtNQILn7AyXlQATewn0PFVwTAAN3SxMci7Iz0FPJpWguoYV+DriA5tOSWM19uOqQ\nfJ0Q31dByX4ctcxYsSURKsTnjmtQ+MaL9w5l6PZK4Zxn/FT5YBg4MPEfAfdp/X3J\nMCBlx6nwN7lHwogF81Y5wHaVr+qn9EIpRUAa4rv9CSAP74+9Q1UrJPa6ALz1klp8\nUHeydn5j3l+zG5XxwcP5iOM8OUy7Aq7Q4GcZmQsxFWS9ocq4WnFMnUVqFrmT6jst\ny6TnOvVC9cZoOesTTKQ/ox9vZrbNLZRzKSqZrRUS0Il0tlwXhr0p5Y6rjhmKV6s7\nVHzqm2ChJ4o/dsFoWTeO2jWLkUYmmFgQsLlDEDW4Rh8/kuz21M7ZRGw96wCvIrDo\nRnX9PzieK28htoUH0Onhfi6HBc0YxplHx8v2uSV8Rl5tLWmFR4qmDcjrXZnYCKmb\nkOPBeiohZsMYGnIwfDwh9naxhmYR81lytx5PVwqgKsWvZ0nnl/G3C0FtkHtjpg0M\nlBWIZzYdb6k=\n=M9Pj\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-07-30T08:29:14.441425442Z",
+"upload-date-timestamp": "1532939354"
+}

@@ -1,0 +1,21 @@
+{
+"id": "84464f43-0159-41f9-866e-82057a2404c3",
+"hash": {
+"md5": "f3bf10253b55b66761ee2ea9d3648b4b",
+"sha256": "f166c03a5cffe3a90df86dfae14c2ed84eb9aa5d39e4d7cabaa4cf1fa8e5d885"
+},
+"size": 67669194,
+"name": "virtualbox-zesty.deb",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "virtualbox-zesty.deb",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n84464f43-0159-41f9-866e-82057a2404c3\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlso7rERHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ54GLw//TcbkocvpGz0KDQv/E8/QiA/T6nqLYKc/\nRNZlQLKTWAlBgxemhpQ8OHTv4PMNcVkns7hhiS4Ak+Iany3rMj774A6lmtaIeBko\nAsBOsnzxjsKPKbjGB9Dzi08PBjJQ2dzpefa5oDlqfDAjw5ba4Kug3iMbs2JQTy3R\neXjdAgMhzyTm1ok9F29tlk/wDsWbUysNTJDk+MtLZyav+n8M22jDl81LKJDAyh1X\naEX+1c0rNQfhHnaBGFG8m9Fu0ltp3otipVdOiQDyGWTjyLujAoUXr2GEr5+Lce11\n4QdZyXxHUkaWn9sZxUSlT9qFDhJiIXT5WKKXk3PaG6zFC9XBK/+8mV1VA5Qce5xW\n2LWL/4gmJyiRvBYe547TDSqEYC2v9xaSGOaN83SriCDG78PVW0epEsJ9kel4Wvbw\nNCV5huDfQ2ICi6Gv9q+81ZzZkyC8+itxMabD8FrFbLAmHluCR154kndbQKyfk4P/\npYRgiWaG//Ctv7nvyrfx77oQckVjZvrfAykn360ypnXaJ0U41VMmaeWGV+Q2O3lp\nHJrGYZraY03AgpNDA9QEykqyKS1uSAXxrBNrHTGfE3qG0YLp+cdTFe3/xcMg8QGN\ncUECmT6/HFKXK6e+0MUhFkEVkIyk8Wu8VgtJwMtAiaxe2A0uCizvt5j3gvfuWrEd\nsqdxjVy+iMY=\n=kLSH\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-06-19T11:53:21.288579796Z",
+"upload-date-timestamp": "1529409201"
+}

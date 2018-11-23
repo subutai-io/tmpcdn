@@ -1,0 +1,21 @@
+{
+"id": "eba02c68-86d3-4580-b26f-a0a9754a3533",
+"hash": {
+"md5": "acf903cf2c45baf9277bf91bd195dbfb",
+"sha256": "9f0bc8f22eed5199c85caf44572e632787abeb2e391694de4cc9b180d0bb1d3d"
+},
+"size": 68111944,
+"name": "virtualbox-bionic.deb",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "virtualbox-bionic.deb",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\neba02c68-86d3-4580-b26f-a0a9754a3533\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlsojTcRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ54dJg//eFRMiMu5/wreKTtZVblFdyEzzG79LZKr\neEKt7w2G76+Ua1WAgAqjJE0LNLD5oJG4e228YubwABnzHlFJa5J9qzvge50ZRWcp\ncD2mV3d+zLmRteAue0wNZcAnTNFSDuP/tmGZbxNLR5Kbbh/degFOLvJ62as9C1oC\nQ65Yi4Dck3kpytyUqU9UcF/+z1yjL1ulmzww5ZPCuHouG9KxPkvvAG8cJHSkllB/\npQ4NSHOWTPhVSVmGQGpD2uszY6dHJPnWfdXwPtX6ZLUXd2edueOVKG6oHWNx5x5U\nh1TsqFxvOiNhQlQtMV5+g2CTXN+6K/+ypv4S+7gsD+BPuI6EWZgEFVCiHtVgr9uw\nwxZ2ezEayWgrRh359q/k/kDlKhrikeNSnpqK1WQHhNE3OjihWclj0/uO4GNUirzl\nky0mLN5S7OnyrhZhCGbVSSQFx83bnpfEoZRGxSzUCsXhjEgjKk5Gpga9RsLGxpv3\nFemGn6qNOufy78QlTs2sWuJXcXm++gOeVTyYVKoDsYfcp7Yh2X5TxsZqSmU7uFIM\n/VtC4hd1nFAGSwxQo1q0A+dsQ8nNt9e4OB1OzAzqA84Kusdv9Ag7Grsbqimme/+y\nMgVAkPYvAYFZizS4yApfxvODQqN/KejazoQasOE4QhMkfgNo9C7nH1JHFe0MKHjL\nzJzq+YR7kcA=\n=3X8j\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-06-19T04:57:27.248315524Z",
+"upload-date-timestamp": "1529384247"
+}

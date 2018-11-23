@@ -1,0 +1,21 @@
+{
+"id": "07424182-98da-4f73-ace7-142725376c39",
+"hash": {
+"md5": "3e217b4047ae38698934e146b68844c8",
+"sha256": "62ba76bb00724cffa90f6ac3be3414a1ff07a7af123258523b6173690221dc60"
+},
+"size": 2164690,
+"name": "jid1-KejrJUY3AaPCkZ@jetpack.xpi",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "jid1-KejrJUY3AaPCkZ@jetpack.xpi",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n07424182-98da-4f73-ace7-142725376c39\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAltPIicRHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ55HtQ/+OoDbeSQPlfBG0ziCUV7us/PIIMg4bnQG\nzH/+X/70WXf+OzXgVc0z9AQTqb9Hb7DYPthPRY/BY1eAEBzfv4Md+MF7uQOlRgfj\ns71j3T0HJOjZCQ16k9SAqcnI5mxb2y5XGwrjBjESxEZSPTkc9fnnnzdOqlOTftMt\nVT5WkwFp/9jv187uLgMJQhcxn7Rm37WCGQ1gQtny7lXo4oz88flsTXxo7lwTRSJ6\nmw2XscRCXJALwhdiJWIngHvB29v4pmfx93EbMZ5GqgnDGnIBkBmGJ71fhCcU9FoU\nnKhPXBTxkU9NxiU1Ep8vKZA80jIrEF2ojREv8GVGoj/08O88gfc5vD+rqDM5r45D\nbAqdNHIvfCfPh7kjQ0FlY/yDvMkcdwcZ60TCTvCqg9sKYZkUsazBjN+TrktbLS70\nvJdGMHdRIsdIuZpFxBEEPnSuvlmQ5jSYTuFQhde/ocNRwqOg7curC4GmOmYe3ho1\nZDcPuL1nEuINkxdellpl7qIZqxwYKaP8coso+pLcy40Hb3CX/8yWqBbuj/00R5av\neG6xqaeYp2xa3U0JQ6BhuEK5gwOqP35vJnz7tJ215n3YCz/klS4FGpcvPjdPhjXr\n3Rbt96/vpSVKUP4sBmrvtm5v6tjpXOjaCydE/9PtJWd9De9GHqWQ6t31vtbW0wPj\nkjWIPuqTAq8=\n=j7j5\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-07-18T11:19:03.478118727Z",
+"upload-date-timestamp": "1531912743"
+}

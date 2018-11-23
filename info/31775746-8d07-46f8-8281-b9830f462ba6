@@ -1,0 +1,21 @@
+{
+"id": "31775746-8d07-46f8-8281-b9830f462ba6",
+"hash": {
+"md5": "d94028d5de757f5eb73a062f4535e296",
+"sha256": "74a96ca2ce2c8e78394fa78255a4cfe879ae57d4137130e4251cbf7ec99edd76"
+},
+"size": 34039060,
+"name": "vagrant.pkg",
+"tags": [
+""
+],
+"owner": [
+"subutai"
+],
+"filename": "vagrant.pkg",
+"signature": {
+"subutai": "-----BEGIN PGP SIGNED MESSAGE-----\nHash: SHA256\n\n31775746-8d07-46f8-8281-b9830f462ba6\n-----BEGIN PGP SIGNATURE-----\n\niQJFBAEBCAAvFiEE5HwkeQR7tp6rUgoI98XU3BksZ54FAlsoinARHHN1YnV0YWlA\nc3VidXQuYWkACgkQ98XU3BksZ54UEhAAkM7CnAC5NXT8l0JBNmpjOFFCNKMRs+Tu\n74iXkTPWS19HT7XYh3ZPkP0u49faeAhcghJZftiwY9Hv6O0vymAUso8Bc7iF8peS\n6cnzkG5RBFCCQ7QM7F6CVq0oLKDy4IEILnCM/hM34ZmKf2m7gOoxoF/w+7be4Z4U\nY6UZ7auslYEtb8t2+eKZfzTkLGSbFZORhNDsLPZi7ELpuWXL41hCwyB2jHhLCaDp\n8NisuG4DNbe8ldxHKt6tvT4rXqiGcSf/gK11bULN5t1llTde2r74ACi0wPWan/h5\nBN+BksIiYy8rlBlx2PqsI4E/tYZFva7yVvxGhRxiGnLhEnkdGv+wVG1yUCHPCtg8\nhGEm73Q6pG7fcathjR0khutrazAwod7Yzm0G5WMx0Km286FoGzTsRHJ0FkaYWNMk\ntqnFyVgsfzIWm33bJzRzb/Cm55uwXUq3Dnp/XpWQAheHq03YjNNopUTrKiIWJodc\nw27xAByq7GoRflN87kTnOof7wqT6JR3eY/9FeEtNYX7eACULQuqyRwo7gP43SfHl\nZbAGVQUrCOGAwZcQcudg85Tr6nIWJ4zpintg9JPzm/QWveQBCQYg20q27JTtHidE\nJ4o2msJojGH72IK6Z6+Gcrgml5sxJXqFfoZ5v2K9CrxJnapHfDwTCC6budiHtjQb\nGbS97o+HyM4=\n=dkjA\n-----END PGP SIGNATURE-----"
+},
+"upload-date-formatted": "2018-06-19T04:45:36.109157713Z",
+"upload-date-timestamp": "1529383536"
+}
